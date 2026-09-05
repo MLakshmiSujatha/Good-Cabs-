@@ -443,3 +443,30 @@ The project goes beyond simply presenting numbers. It focuses on understanding *
 <p align="center">
   <i>Turning Data into Destinations</i>
 </p>
+
+
+---
+
+---
+
+## 🙏 Acknowledgements
+
+A special thanks to **Codebasics**, **Dhaval Patel**, and **Hemanand Vadivel** for providing the learning resources, guidance, and project inspiration that helped me strengthen my practical skills in **Power BI, data analytics, business intelligence, and data-driven problem solving**.
+
+This project has been an excellent opportunity to apply those learnings to an end-to-end business analytics case study and further develop my skills in building interactive dashboards and translating data into meaningful business insights.
+
+---
+
+## 🔗 Connect With Me
+
+If you found this project interesting, feel free to connect with me or explore more of my work.
+
+**LinkedIn:** (www.linkedin.com/in/mlakshmisujatha)
+
+**Portfolio:**(https://codebasics.io/portfolio/Makam-Lakshmi-Sujatha)
+
+---
+
+<p align="center">
+  <b>Thank you for exploring my GoodCabs Power BI project! 🚕📊</b>
+</p>
